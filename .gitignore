@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+outputs/*.csv
+outputs/*.png
+
+*.log
